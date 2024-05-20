@@ -1,3 +1,5 @@
+## Back to Karma
+
 Back to Karma, Oyun ve Uygulama Akademisi 2024 AI Odaklı Game Jam'i için Unity 73. takım tarafından hazırlanmıştır. (Evsanur Gökçe Renk & Zeynep Sena Tatlı)
 Buradaki scriptler oyunumuza aittir.
 
